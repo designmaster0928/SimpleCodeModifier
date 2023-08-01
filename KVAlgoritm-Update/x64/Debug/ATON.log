@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\TASK\2023\7\KVAlgoritm\Source.cpp(38,8): warning C4101: 'strptr': unreferenced local variable
+F:\TASK\2023\7\KVAlgoritm\Source.cpp(37,7): warning C4101: 'tmpstr': unreferenced local variable
+  ATON.vcxproj -> F:\TASK\2023\7\KVAlgoritm\x64\Debug\ATON.exe
