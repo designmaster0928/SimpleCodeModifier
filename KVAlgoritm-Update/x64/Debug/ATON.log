@@ -1,4 +1,6 @@
-﻿  Source.cpp
-F:\TASK\2023\7\KVAlgoritm\Source.cpp(38,8): warning C4101: 'strptr': unreferenced local variable
-F:\TASK\2023\7\KVAlgoritm\Source.cpp(37,7): warning C4101: 'tmpstr': unreferenced local variable
-  ATON.vcxproj -> F:\TASK\2023\7\KVAlgoritm\x64\Debug\ATON.exe
+﻿  AlgoFunctions.c
+F:\TASK\2023\7\Simple Code Modifier\KVAlgoritm-Update\AlgoFunctions.c(152,10): warning C4013: 'round' undefined; assuming extern returning int
+  Source.cpp
+F:\TASK\2023\7\Simple Code Modifier\KVAlgoritm-Update\Source.cpp(38,8): warning C4101: 'strptr': unreferenced local variable
+F:\TASK\2023\7\Simple Code Modifier\KVAlgoritm-Update\Source.cpp(37,7): warning C4101: 'tmpstr': unreferenced local variable
+  ATON.vcxproj -> F:\TASK\2023\7\Simple Code Modifier\KVAlgoritm-Update\x64\Debug\ATON.exe
